@@ -1,0 +1,9 @@
+
+To use this project one must have a raspsbery pi, a two-port relay and
+a wiring between
+the rasbery,the relay and the electrical appliance
+they would like to automate.
+
+The interaction with the automation project are done via web service
+
+based on bottle , cork  and beaker

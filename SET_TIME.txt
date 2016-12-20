@@ -1,0 +1,3 @@
+date
+
+sudo date --set "18 DEC 2016 16:43:40"

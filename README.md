@@ -1,4 +1,4 @@
-This project will use python and raspberry pi to implement homeautomation.
-It will allow turning on/off electric appliances (for example managing lighting),
-using a raspberry pi and a relay.The raspberry will provide web interface for control
-of the relay and configuration of the home automation.
+This project uses python3 and raspberry pi to implement homeautomation.
+It allows a user to  turn on/off electric appliances (for example managing lighting) or 
+schedule a time interval in which an electrical appliance to work or not,using a raspberry pi and a relay.
+The user can contol the state and the configuration of the relay through a web interface through a browser.
